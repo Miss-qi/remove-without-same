@@ -1,3 +1,6 @@
-/**
- * Created by qiyanzi on 17-3-5.
- */
+function removeWithoutSame(array, item) {
+  //在下面实现函数
+
+}
+
+module.exports = removeWithoutSame;
